@@ -1,0 +1,21 @@
+# Keil MDK build artifacts
+Objects/
+Listings/
+*.uvguix.*
+*.bak
+*.dep
+*.crf
+*.d
+*.o
+*.axf
+*.elf
+*.hex
+*.scvd
+*.lst
+*.lnp
+*.iex
+*.htm
+*.map
+build.log
+JLinkLog.txt
+RTE/
